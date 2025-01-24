@@ -1,6 +1,7 @@
 # Olá, eu sou o luiz.
 Desde sempre, nutri uma paixão pela tecnologia, e atualmente estou cursando **Desenvolvimento Full Stack Java** na **EBAC – Escola Britânica de Artes Criativas e Tecnologia**, após concluir o ensino médio.
 Sou movido pela busca de conhecimento constante e pelo desejo de evoluir como programador. Meu objetivo é ingressar na área de desenvolvimento web como **desenvolvedor full stack júnior** e contribuir para projetos inovadores e dinâmicos.
+
 ---
 ### **Ferramentas e Frameworks**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
